@@ -50,4 +50,16 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/j3tKJX4DO2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+stays logged in
+
+<img src='http://g.recordit.co/OkiDS2eAtl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+can logout
+
+<img src='http://g.recordit.co/ZXau7IYk3s.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+can add a new comment
+
+<img src='http://g.recordit.co/ZMxeTMy1wB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
